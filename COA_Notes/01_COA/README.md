@@ -1,3 +1,4 @@
+```txt
 # Chapter 1 – Introduction to Computer Organization and Architecture
 
 # Chapter 2 – Stored Program Concept and Von Neumann Architecture
@@ -10,7 +11,7 @@
 
 # Chapter 6 – Quick Revision
 
-
+```
 
 # Computer Organization and Architecture (COA)
 ## Chapter 1 – Introduction to Computer Organization and Architecture
