@@ -1,15 +1,15 @@
 ```txt
-# Chapter 1 – Introduction to Computer Organization and Architecture
+Chapter 1 – Introduction to Computer Organization and Architecture
 
-# Chapter 2 – Stored Program Concept and Von Neumann Architecture
+Chapter 2 – Stored Program Concept and Von Neumann Architecture
 
-# Chapter 3 – Register and Bus Organization
+Chapter 3 – Register and Bus Organization
 
-# Chapter 4 – Instruction Format and Instruction Execution
+Chapter 4 – Instruction Format and Instruction Execution
 
-# Chapter 5 – Complete Example: ADD Two Numbers
+Chapter 5 – Complete Example: ADD Two Numbers
 
-# Chapter 6 – Quick Revision
+Chapter 6 – Quick Revision
 
 ```
 
