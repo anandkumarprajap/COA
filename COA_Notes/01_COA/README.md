@@ -12,6 +12,10 @@ Chapter 5 – Complete Example: ADD Two Numbers
 Chapter 6 – Quick Revision
 
 ```
+![3](3.png)
+![4](4.png)
+![5](5.png)
+![6](6.png)
 
 # Computer Organization and Architecture (COA)
 ## Chapter 1 – Introduction to Computer Organization and Architecture
