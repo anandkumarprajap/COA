@@ -16,6 +16,8 @@ The three main system buses are:
 
 ![Types of buses](COA_Types_of_Buses.png)
 ![COA_Common_Bus_MUX](COA_Common_Bus_MUX.png)
+![1](1.png)
+![2](2.png)
 
 ## 2. Address bus
 **Definition:** Carries the address of the memory location or I/O port that the processor wants to access.
